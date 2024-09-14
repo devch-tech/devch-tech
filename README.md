@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://www.instagram.com/__devch/">devch</a> 👋</h1>
 </div>
-<img src="C:\\Users\\chpal\\Downloads\\BANNER">
+<img src="https://imgur.com/0HM6bPo">
 
 ## Sobre mi
 
