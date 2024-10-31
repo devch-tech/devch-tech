@@ -3,11 +3,12 @@
 </div>
 <img src="https://i.imgur.com/ST4NpWZ.png">
 
-## Sobre mi
+## Sobre mí
 
 - 📲 Java y Kotlin developer
-- 💡Compartiendo tips de #Java y #Kotlin en [Instagram](https://www.instagram.com/__devch/)
-- 🎥 Te enseño a programar en Java y Kotlin en [Youtube](https://www.youtube.com/@devch_tech)
+- 💡 Compartiendo tips de #Java y #Kotlin en [Instagram](https://www.instagram.com/__devch/)
+- 🎥 Te enseño a programar en Java y Kotlin en [YouTube](https://www.youtube.com/@devch_tech)
+- 🤝 Únete a nuestra comunidad en [Discord](https://discord.gg/bJSt3peqNn), donde cada dos semanas organizamos eventos de proyectos colaborativos, ¡trabajando juntos como en una empresa real!
 
 <br>
 
