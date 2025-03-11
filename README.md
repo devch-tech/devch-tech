@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">¡Bienvenid@ a mi mundo de código! Soy <a href="https://www.instagram.com/__devch/">devch</a> 👋</h1>
 </div>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWlkaXJndTIxMW94YnVlODY3ZjY3NWQ0c3Rwbm8zYTczMXp6cDhqeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sPLbI6dWqqI7IX17wD/giphy.gif" alt="GIF animado">
+<img src="https://media.giphy.com/media/yqoFoDlF6FxPjc9azp/giphy.gif" alt="GIF animado">
 
 ## Sobre mí
 
