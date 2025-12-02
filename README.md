@@ -1,16 +1,16 @@
 <div align="center">
   <h1 align="center">¡Bienvenid@ a mi mundo de código! Soy <a href="https://www.instagram.com/__devch/">devch</a> 👋</h1>
-  <img src="https://i.imgur.com/qWMlD1X.png" alt="GIF animado" align="center">
+  <img src="https://i.imgur.com/7pzGU3j.png" alt="GIF animado" align="center">
 </div>
 
   
 
 ## Sobre mí
 
-- 📲 Java y Kotlin developer
-- 💡 Compartiendo tips de #Java y #Kotlin en [Instagram](https://www.instagram.com/__devch/)
-- 🎥 Te enseño a programar en Java y Kotlin en [YouTube](https://www.youtube.com/@devch_tech)
-- 🤝 Únete a nuestra comunidad en [Discord](https://discord.gg/bJSt3peqNn), donde cada dos semanas organizamos eventos de proyectos colaborativos, ¡trabajando juntos como en una empresa real!
+- 📲 Java developer
+- 💡 Compartiendo tips de #Java en [Instagram](https://www.instagram.com/__devch/)
+- 🎥 Te enseño a programar en Java en [YouTube](https://www.youtube.com/@devch_tech)
+- 🤝 Únete a nuestra comunidad en [Discord](https://discord.gg/bJSt3peqNn), donde cada mes organizamos eventos de proyectos colaborativos, ¡trabajando juntos como en una empresa real!
 
 <br>
 
