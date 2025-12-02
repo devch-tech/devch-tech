@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">¡Bienvenid@ a mi mundo de código! Soy <a href="https://www.instagram.com/__devch/">devch</a> 👋</h1>
-  <img src="https://i.imgur.com/7pzGU3j.png" alt="GIF animado" align="center">
+  <img src="https://i.imgur.com/oQDujRA.jpeg" alt="GIF animado" align="center">
 </div>
 
   
