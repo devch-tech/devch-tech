@@ -9,7 +9,7 @@
 
 - 📲 Java developer
 - 💡 Compartiendo tips de #Java en [Instagram](https://www.instagram.com/chanti.dev/)
-- 🎥 Te enseño a programar en Java en [YouTube]https://www.youtube.com/@chanti.devtech)
+- 🎥 Te enseño a programar en Java en [YouTube](https://www.youtube.com/@chanti.devtech)
 - 🤝 Únete a nuestra comunidad en [Discord](https://discord.gg/bJSt3peqNn), donde cada mes organizamos eventos de proyectos colaborativos, ¡trabajando juntos como en una empresa real!
 
 <br>
