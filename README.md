@@ -25,7 +25,7 @@ Creo contenido para ayudar a otros developers a aprender y crecer.
 
 - 💡 Comparto tips de **#Programacion y #IA** en Redes Sociales
 - 🤝 Tengo una comunidad en **Discord** donde cada mes organizamos proyectos colaborativos, trabajando como en una empresa real
-- 🔭 No olvides probar mi proyecto **FindUnderstandFix** un MCP que te da 5 herramientas para que puedas contribuir en Open source de manera fácil y sencilla
+- 🔭 No olvides probar mi proyecto **FindUnderstandFix**, un **MCP que te da 5 herramientas para claude** para que puedas contribuir en Open source de manera fácil y sencilla
 
 <br>
 
