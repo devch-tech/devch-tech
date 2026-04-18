@@ -21,12 +21,11 @@
 
 Soy **Chanti**, Java developer y content creator desde Madrid 🇪🇸
 
-Creo contenido para ayudar a otros developers a aprender y crecer — sin rodeos, con código real.
+Creo contenido para ayudar a otros developers a aprender y crecer.
 
-- 💡 Comparto tips de **#Java** en Instagram y TikTok
-- 🎥 Enseño a programar en **YouTube** paso a paso
+- 💡 Comparto tips de **#Programacion y #IA** en Redes Sociales
 - 🤝 Tengo una comunidad en **Discord** donde cada mes organizamos proyectos colaborativos, trabajando como en una empresa real
-- 🔭 Actualmente explorando contribuciones a **open source**
+- 🔭 No olvides probar mi proyecto **FindUnderstandFix** un MCP que te da 5 herramientas para que puedas contribuir en Open source de manera fácil y sencilla
 
 <br>
 
