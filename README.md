@@ -1,76 +1,69 @@
+<!--
+  README de perfil de GitHub — chanti.dev
+  Antes de publicar, reemplaza TU-USUARIO por tu usuario real de GitHub
+  en TODO el archivo (los banners SVG ya usan tus colores de marca:
+  #171616 negro, #eb4400 naranja, #f2ce7c amarillo).
+-->
+
 <div align="center">
-  <img src="https://i.imgur.com/8ZAT78g.png" alt="Chanti.dev" width="100%">
+
+<img src="assets/hero-banner.svg" width="100%" alt="chanti.dev" />
+
+<a href="https://github.com/TU-USUARIO">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=15&duration=3000&pause=900&color=EB4400&background=00000000&center=true&vCenter=true&width=600&lines=Ense%C3%B1o+Java+e+Inteligencia+Artificial;Contenido+sobre+agentes%2C+MCP+y+RAG;Construyendo+en+p%C3%BAblico+desde+%40chanti.dev" alt="typing" />
+</a>
+
+<br/>
+
+<img src="assets/info-panel.svg" width="100%" alt="system info" />
+<img src="assets/profile-card.svg" width="100%" alt="profile card" />
+
 </div>
 
-<br>
+<br/>
 
-<div align="center">
+## Stack
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chantal-almeida-palmucci)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chanti.dev/)
-  [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@__devch)
-  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@chantdev)
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](discord.gg/bJSt3peqNn)
-  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/__devch)
-
-</div>
-
-<br>
-
-## 👩‍💻 Sobre mí
-
-Soy **Chanti**, Java developer y content creator desde Madrid 🇪🇸
-
-Creo contenido para ayudar a otros developers a aprender y crecer.
-
-- 💡 Comparto tips de **#Programacion y #IA** en Redes Sociales
-- 🤝 Tengo una comunidad en **Discord** donde cada mes organizamos proyectos colaborativos, trabajando como en una empresa real
-- 🔭 No olvides probar mi proyecto **FindUnderstandFix**, un **MCP que te da 5 herramientas para claude** para que puedas contribuir en Open source de manera fácil y sencilla
-
-<br>
-
-## 🛠️ Lenguajes y Herramientas
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-171616?style=for-the-badge&logo=openjdk&logoColor=EB4400" />
+  <img src="https://img.shields.io/badge/TypeScript-171616?style=for-the-badge&logo=typescript&logoColor=F2CE7C" />
+  <img src="https://img.shields.io/badge/JavaScript-171616?style=for-the-badge&logo=javascript&logoColor=EB4400" />
+  <img src="https://img.shields.io/badge/PowerShell-171616?style=for-the-badge&logo=powershell&logoColor=F2CE7C" />
+  <img src="https://img.shields.io/badge/Shell-171616?style=for-the-badge&logo=gnubash&logoColor=EB4400" />
 </p>
 
-<br>
+## Estadísticas en vivo
 
-## 🚀 Proyectos Destacados
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&hide_border=true&bg_color=171616&title_color=eb4400&text_color=f5f1ec&icon_color=f2ce7c&ring_color=eb4400" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&hide_border=true&bg_color=171616&title_color=eb4400&text_color=f5f1ec&langs_count=8" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO&hide_border=true&background=171616&ring=eb4400&fire=eb4400&currStreakLabel=f2ce7c&sideLabels=f5f1ec&currStreakNum=f5f1ec&sideNums=f5f1ec&dates=8a8580" />
+</p>
+
+## Proyectos destacados
+
+<img src="assets/work-panel.svg" width="100%" alt="proyectos destacados" />
+
+<!--
+  El panel de arriba es estático. Para que enlace de verdad a tus repos,
+  puedes sustituirlo por tarjetas dinámicas como esta (una por proyecto):
+
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU-USUARIO&repo=NOMBRE-DEL-REPO&hide_border=true&bg_color=171616&title_color=eb4400&text_color=f5f1ec&icon_color=f2ce7c" />
+-->
+
+## Actividad
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=TU-USUARIO&bg_color=171616&color=f5f1ec&line=eb4400&point=f2ce7c&area=true&area_color=eb4400&hide_border=true" />
+
+<br/>
 
 <div align="center">
-
-  [![Java-OOP-Guide](https://github-readme-stats.vercel.app/api/pin/?username=devch-tech&repo=Java-OOP-Guide&theme=algolia&show_owner=false)](https://github.com/devch-tech/Java-OOP-Guide)
-  [![QA-Manual-Curso](https://github-readme-stats.vercel.app/api/pin/?username=devch-tech&repo=QA-Manual-Curso&theme=algolia&show_owner=false)](https://github.com/devch-tech/QA-Manual-Curso)
-  [![FindUnderstandFix](https://github-readme-stats.vercel.app/api/pin/?username=devch-tech&repo=FindUnderstandFix&theme=algolia&show_owner=false)](https://github.com/devch-tech/FindUnderstandFix)
-  [![TelegramBot](https://github-readme-stats.vercel.app/api/pin/?username=devch-tech&repo=TelegramBot&theme=algolia&show_owner=false)](https://github.com/devch-tech/TelegramBot)
-
-</div>
-
-<br>
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/devch-tech">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=devch-tech&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devch-tech&layout=compact&langs_count=8&theme=algolia"/>
+  <a href="https://instagram.com/chanti.dev">
+    <img src="https://img.shields.io/badge/Instagram-171616?style=for-the-badge&logo=instagram&logoColor=EB4400" />
   </a>
-</p>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=devch-tech&color=2196F3&style=for-the-badge&label=VISITAS+AL+PERFIL" alt="Profile views"/>
 </div>
+
+<p align="center"><sub>chanti.dev · contenido en español sobre IA, agentes y desarrollo</sub></p>
