@@ -1,37 +1,65 @@
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=devch-tech&theme=neon" alt="chanti.dev profile hero" />
-</p>
+<div align="center">
+  <img src="https://i.imgur.com/8ZAT78g.png" alt="Chanti.dev" width="100%">
+</div>
+
+<br>
+
+<div align="center">
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chantal-almeida-palmucci)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chanti.dev/)
+  [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@__devch)
+  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@chantdev)
+  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](discord.gg/bJSt3peqNn)
+  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/__devch)
+
+</div>
+
+<br>
+
+## 👩‍💻 Sobre mí
+
+Soy **Chanti**, Java developer y content creator desde Madrid 🇪🇸
+
+Creo contenido para ayudar a otros developers a aprender y crecer.
+
+- 💡 Comparto tips de **#Programacion y #IA** en Redes Sociales
+- 🤝 Tengo una comunidad en **Discord** donde cada mes organizamos proyectos colaborativos, trabajando como en una empresa real
+- 🔭 No olvides probar mi proyecto **FindUnderstandFix**, un **MCP que te da 5 herramientas para claude** para que puedas contribuir en Open source de manera fácil y sencilla
+
+<br>
+
+## 🛠️ Lenguajes y Herramientas
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/about?username=devch-tech&theme=neon" alt="About chanti.dev" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 </p>
+
+<br>
+
+<br>
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stack?username=devch-tech&theme=neon" alt="Language stack" />
+  <a href="https://github.com/devch-tech">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=devch-tech&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devch-tech&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
 
-## 📊 GitHub Stats
+<br>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=devch-tech&theme=neon" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=devch-tech&theme=neon" alt="devch-tech featured projects" />
-</p>
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=devch-tech&theme=neon" alt="devch-tech highlights" />
-</p>
-
-## 🤝 Connect With Me
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=devch-tech&theme=neon&x=__devch" alt="devch-tech social links" />
-</p>
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devch-tech) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/__devch)
-
----
-
-<p align="center">Profile README generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=devch-tech&color=2196F3&style=for-the-badge&label=VISITAS+AL+PERFIL" alt="Profile views"/>
+</div>
