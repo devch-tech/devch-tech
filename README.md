@@ -1,32 +1,3 @@
-<!--
-  README de perfil de GitHub — chanti.dev
-  100% texto y Markdown. No hay ningún archivo de imagen generado por
-  mí: el wordmark y el retrato son ASCII real dentro de bloques de
-  código, y las únicas imágenes que aparecen son badges de shields.io
-  y github-readme-stats (servicios externos que TÚ referencias con
-  una URL, no archivos que subas).
-
-  Antes de publicar, cambia TU-USUARIO por tu usuario real de GitHub
-  en las secciones "Estadísticas en vivo" y "Actividad" (son las
-  únicas partes que dependen de un servicio para traer datos reales).
--->
-
-<div align="center">
-
-```
-           ██████╗██╗  ██╗ █████╗ ███╗   ██╗████████╗██╗   ██████╗ ███████╗██╗   ██╗
-          ██╔════╝██║  ██║██╔══██╗████╗  ██║╚══██╔══╝██║   ██╔══██╗██╔════╝██║   ██║
-          ██║     ███████║███████║██╔██╗ ██║   ██║   ██║   ██║  ██║█████╗  ██║   ██║
-          ██║     ██╔══██║██╔══██║██║╚██╗██║   ██║   ██║   ██║  ██║██╔══╝  ╚██╗ ██╔╝
-          ╚██████╗██║  ██║██║  ██║██║ ╚████║   ██║   ██║██╗██████╔╝███████╗ ╚████╔╝ 
-           ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝   ╚═╝╚═╝╚═════╝ ╚══════╝  ╚═══╝  
-```
-
-
-</div>
-
----
-
 <div align="center">
   <img src="https://i.imgur.com/8ZAT78g.png" alt="Chanti.dev" width="100%">
 </div>
